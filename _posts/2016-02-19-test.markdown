@@ -3,4 +3,10 @@ published: true
 title: Test
 layout: post
 ---
-Testing here
+SAN FRANCISCO — Letters from around the globe began pouring into the inbox of Timothy D. Cook not long after the publication of the first revelations from Edward J. Snowden about mass government surveillance
+
+Do you know how much privacy means to us? they asked Apple’s chief executive. Do you understand?
+
+Mr. Cook did. He was proud that Apple sold physical products — phones, tablets and laptops — and did not traffic in the intimate, digital details of its customers’ lives.
+
+That stance crystallized on Tuesday when Mr. Cook huddled for hours with lawyers and others at Apple’s headquarters to figure out how to respond to a federal court order requiring the company to let the United States government break into the iPhone of one of the gunmen in a San Bernardino, Calif., mass shooting. Late Tuesday, Mr. Cook took the fight public with a letter to customers that he personally signed.
