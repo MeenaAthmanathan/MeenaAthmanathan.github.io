@@ -1,6 +1,6 @@
 ---
 published: true
-title: Test
+title: How Tim Cook Became a Bulwark for Digital Privacy
 layout: post
 ---
 SAN FRANCISCO — Letters from around the globe began pouring into the inbox of Timothy D. Cook not long after the publication of the first revelations from Edward J. Snowden about mass government surveillance
