@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MeenaAthmanathan.github.io
+title: Meena Athmanathan
+tagline: Sharing Thoughts
+description: My awesome new site
+paginate: 5
